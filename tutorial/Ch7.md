@@ -1,7 +1,7 @@
 <details>7-1. Intro
 <summary>
 
-## Sequence
+**Sequence**
 - A sequence is an object that holds multiple items of data, stored one after the other
 - There are several different types of sequence objects in Python
 - Each sequence is distinguished by three characteristics
@@ -9,7 +9,7 @@
   - Mutability
   - Duplicity (having duplicate values)
 
-## Lists and Tuples
+**Lists and Tuples**
 
 - In this chapter, we will look at two sequences: lists and tuples
 - Lists/Tuples can contain any arbitrary number of elements, of any datatypes
@@ -17,14 +17,16 @@
   - Lists are mutable, which means that a program can change its contents
   - Tuples are immutable, which means that once created, a tuple's contents cannot be changed. 
 
-<details>
-  <summary>
-    🚩 To Remember
-  </summary>
-  Lists are mutable, tuples are immutable
-</details>
+  <details>
+    <summary>
+      🚩 To Remember
+    </summary>
+    Lists are mutable, tuples are immutable
+  </details>
+
 </summary>
 </details>
+
 # 7-2, 7-3. Creating a List
 
 ## 7-2. Creating an empty list
