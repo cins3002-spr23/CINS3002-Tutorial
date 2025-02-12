@@ -1,4 +1,5 @@
-# 7-1. Intro
+<details>7-1. Intro
+<summary>
 
 ## Sequence
 - A sequence is an object that holds multiple items of data, stored one after the other
@@ -22,7 +23,8 @@
   </summary>
   Lists are mutable, tuples are immutable
 </details>
-
+</summary>
+</details>
 # 7-2, 7-3. Creating a List
 
 ## 7-2. Creating an empty list
